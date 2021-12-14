@@ -1,0 +1,9 @@
+.cuadrado {list-style-type:square;}
+.circulovacio{list-style-type:circle;}
+.ninguno{list-style-type:none;}
+.circulolrelleno{list-style-type:disc;}
+.decimal{list-style-type:decimal;}
+.romanominuscula{list-style-type:lower-roman;}
+.romanomayuscula{list-style-type:upper-roman;}
+.letrasminuscula{list-style-type:lower-alpha;}
+.letrasmayusculas{list-style-type:upper-alpha;}
